@@ -1,0 +1,34 @@
+.box {
+  display: inline-block; 
+  border: 10px solid green; 
+}
+
+.box img {
+  width: 250px; 
+  height: auto; 
+
+}
+
+.text-container {
+  margin-left: 20px; /* Adjust as needed for spacing */
+
+}
+
+p {
+  margin-bottom: 200px;
+  padding-left: 50px;
+
+}
+
+h2 {
+  margin-bottom: 20px; /* Reduced margin to fit the layout */
+  padding-left: 50px;
+
+}
+
+.container {
+  display: flex;
+  align-items: flex-start; /* Align items to the top */
+  margin: 20px;
+
+}
